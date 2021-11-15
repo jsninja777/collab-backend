@@ -22,7 +22,7 @@ const getInfo = (req, res) => {
         'url': ''
       },
       'language': 'node.js',
-      'sources': 'https://github.com/jsninja777/collab-system',
+      'sources': 'https://github.com/jsninja777/collab-backend',
       'answers': {
         '1': "My approach started with drawing out how I believed the algorithm should work and breaking it down into cases based on the examples. I used that to design and implement the database schema which I chose to do in MongoDB because it is flexible and easy to change the schema if needed.",
         '2': 'If I had more time, I would add support conflict cases. I would learn about serverless frameworks and implement one, because I think that my solution has scalability concerns.',
